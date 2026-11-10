@@ -1,13 +1,24 @@
 {
  "17697cdd26": {
-  "fallos": 1,
+  "fallos": 2,
   "nombre": "USDA - Latest News",
   "vistos": []
  },
  "28fe2077f8": {
-  "fallos": 1,
+  "fallos": 0,
   "nombre": "State Dept - Press Releases",
-  "vistos": []
+  "vistos": [
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-22",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/under-secretary-helbergs-travel-to-singapore-indonesia-and-japan",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-french-foreign-minister-barrot-2",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-german-foreign-minister-wadephul-4",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-paraguayan-president-alliana",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-21",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/cambodia-national-day-2",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-launch-of-trilateral-technical-planning-groups-to-advance-the-trump-route-for-international-peace-and-prosperity-tripp",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-cripple-financial-networks-sustaining-the-iranian-regime",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-department-of-state-announces-selection-for-the-2027-venice-architecture-biennale"
+  ]
  },
  "62b8ae2099": {
   "fallos": 0,
