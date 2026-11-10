@@ -1,0 +1,21 @@
+# Solo si prefieres desplegar desde la terminal con `npx wrangler deploy`
+# (alternativa: copiar/pegar worker.js en el dashboard, ver README).
+name = "monitor-noticias"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[triggers]
+crons = ["* * * * *"]
+
+[[kv_namespaces]]
+binding = "ESTADO"
+id = "PEGA_AQUI_EL_ID_DEL_NAMESPACE"   # npx wrangler kv namespace create ESTADO
+
+[vars]
+FUENTES_URL = "https://raw.githubusercontent.com/<usuario>/<repo>/main/fuentes.json"
+GITHUB_ESTADO_URL = "https://raw.githubusercontent.com/<usuario>/<repo>/main/estado.json"
+
+# Secretos (no van aquí):
+#   npx wrangler secret put TELEGRAM_BOT_TOKEN
+#   npx wrangler secret put TELEGRAM_CHAT_ID
+#   npx wrangler secret put RUN_KEY
