@@ -1,0 +1,51 @@
+name: Monitor de noticias EE.UU.
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"  # respaldo de Cloudflare; puedes bajarlo a */5 si lo usas solo
+  workflow_dispatch: {}      # botón "Run workflow"
+
+# Nunca dos corridas a la vez (evita alertas duplicadas y conflictos de git)
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write            # para guardar estado.json en el repo
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Revisar fuentes
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          CF_ESTADO_URL: ${{ secrets.CF_ESTADO_URL }}
+        run: python monitor.py
+
+      - name: Guardar estado (solo si cambió)
+        run: |
+          if ! git diff --quiet -- estado.json 2>/dev/null || [ -n "$(git status --porcelain estado.json)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add estado.json
+            git commit -m "estado: $(date -u +%FT%TZ)"
+            git pull --rebase -X theirs || true
+            git push
+          else
+            echo "Sin cambios en estado."
+          fi
