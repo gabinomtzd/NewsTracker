@@ -1,13 +1,26 @@
 {
  "17697cdd26": {
-  "fallos": 3,
+  "fallos": 0,
   "nombre": "USDA - Latest News",
-  "vistos": []
+  "vistos": [
+   "https://www.usda.gov/about-usda/news/press-releases/2026/11/06/usda-announces-great-american-christmas-market",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/30/secretary-rollins-announces-8-additional-companies-joining-usdas-product-usa-label-initiative",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/30/usda-fueling-healthy-futures-historic-new-child-nutrition-funding",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/29/usda-rural-development-announces-loan-guarantee-new-beef-processing-facility-dimmitt-texas",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/29/usda-announces-4725-million-food-purchase-support-us-producers-and-strengthen-americas-food-supply",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/29/secretary-rollins-commends-governors-taking-action-emergency-diesel-relief-encourages-remaining",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/28/usda-seeks-applications-nareee-advisory-board-and-citrus-disease-subcommittee-membership",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/27/usda-opens-new-research-facility-strengthen-water-efficiency-and-agricultural-productivity-southwest",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/26/usda-invest-57-million-boost-american-meat-processing-capacity-and-support-us-ranchers",
+   "https://www.usda.gov/about-usda/news/press-releases/2026/10/26/usda-invests-over-325-million-42-projects-boost-farm-operations-and-conserve-natural-resources"
+  ]
  },
  "28fe2077f8": {
   "fallos": 0,
   "nombre": "State Dept - Press Releases",
   "vistos": [
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-23",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-ukrainian-foreign-minister-sybiha",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-22",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/under-secretary-helbergs-travel-to-singapore-indonesia-and-japan",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-french-foreign-minister-barrot-2",
@@ -40,6 +53,8 @@
   "fallos": 0,
   "nombre": "Casa Blanca - News",
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage",
+   "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month",
    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers",
