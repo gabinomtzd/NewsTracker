@@ -1,4 +1,4 @@
-name: .github/workflows/monitor.yml
+name: Monitor de noticias EE. UU.
 
 on:
   schedule:
