@@ -1,0 +1,24 @@
+# Solo si prefieres desplegar desde la terminal con `npx wrangler deploy`
+# (alternativa: copiar/pegar worker.js en el dashboard, ver README).
+name = "round-tree-2011monitor-noticias"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[triggers]
+crons = ["* * * * *"]
+
+[[kv_namespaces]]
+binding = "ESTADO"
+id = "9c21c5ce3c8f43d9968db8bf4294f867"
+
+[vars]
+FUENTES_URL = "https://raw.githubusercontent.com/gabinomtzd/NewsTracker/main/fuentes.json"
+GITHUB_ESTADO_URL = "https://raw.githubusercontent.com/gabinomtzd/NewsTracker/main/estado.json"
+
+GITHUB_REPO = "gabinomtzd/NewsTracker"
+
+# Secretos (no van aquí; se ponen en el dashboard o con wrangler secret put):
+#   GITHUB_TOKEN
+#   npx wrangler secret put TELEGRAM_BOT_TOKEN
+#   npx wrangler secret put TELEGRAM_CHAT_ID
+#   npx wrangler secret put RUN_KEY
