@@ -1,0 +1,39 @@
+[
+  {
+    "nombre": "Casa Blanca - News",
+    "tipo": "rss",
+    "url": "https://www.whitehouse.gov/news/feed/",
+    "solo_github": true
+  },
+  {
+    "nombre": "Casa Blanca - Presidential Actions",
+    "tipo": "rss",
+    "url": "https://www.whitehouse.gov/presidential-actions/feed/",
+    "solo_github": true
+  },
+  {
+    "nombre": "State Dept - Press Releases",
+    "tipo": "rss",
+    "url": "https://www.state.gov/rss-feed/press-releases/feed/"
+  },
+  {
+    "nombre": "USDA - Latest News",
+    "tipo": "rss",
+    "url": "https://www.usda.gov/rss/latest-releases.xml"
+  },
+  {
+    "nombre": "USTR - Press Releases",
+    "tipo": "html",
+    "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases",
+    "patron_enlace": "/press-office/press-releases/\\d{4}/[a-z]+/[^/?#]+",
+    "id_regex": "press-releases/(\\d{4}/[a-z]+/[^/?#]+)"
+  },
+  {
+    "nombre": "Treasury - Press Releases",
+    "tipo": "html",
+    "url": "https://home.treasury.gov/news/press-releases",
+    "patron_enlace": "/news/press-releases/sb\\d+",
+    "id_regex": "press-releases/(sb\\d+)",
+    "solo_github": true
+  }
+]
