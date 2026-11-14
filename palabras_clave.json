@@ -1,0 +1,71 @@
+[
+  {
+    "tema": "México",
+    "variantes": ["Mexico", "Mexican", "Mexicans", "United Mexican States"]
+  },
+  {
+    "tema": "Sanciones",
+    "variantes": ["sanction", "sanctions", "sanctioned", "sanctioning"]
+  },
+  {
+    "tema": "Terrorismo",
+    "variantes": ["terrorist", "terrorists", "terrorism"]
+  },
+  {
+    "tema": "Narcoterrorismo",
+    "variantes": ["narco-terrorist", "narco-terrorists", "narcoterrorist", "narcoterrorists",
+                  "narco-terrorism", "narcoterrorism"]
+  },
+  {
+    "tema": "Cárteles",
+    "variantes": ["cartel", "cartels"]
+  },
+  {
+    "tema": "Importaciones",
+    "variantes": ["import", "imports", "imported", "importing", "importer", "importers"]
+  },
+  {
+    "tema": "Mecanismo Laboral de Respuesta Rápida",
+    "variantes": ["Rapid Response Labor Mechanism", "Rapid Response Mechanism", "RRM"]
+  },
+  {
+    "tema": "Aranceles",
+    "variantes": ["tariff", "tariffs", "duties", "customs duty", "import duty", "import duties"]
+  },
+  {
+    "tema": "T-MEC",
+    "variantes": ["USMCA", "T-MEC", "TMEC", "CUSMA", "United States-Mexico-Canada Agreement"]
+  },
+  {
+    "tema": "Fentanilo (sugerida)",
+    "variantes": ["fentanyl"]
+  },
+  {
+    "tema": "Organizaciones terroristas (sugerida)",
+    "variantes": ["Foreign Terrorist Organization", "Foreign Terrorist Organizations", "FTO", "FTOs"]
+  },
+  {
+    "tema": "Cárteles por nombre (sugerida)",
+    "variantes": ["Sinaloa", "CJNG", "Jalisco New Generation"]
+  },
+  {
+    "tema": "OFAC (sugerida)",
+    "variantes": ["OFAC", "Specially Designated Nationals", "SDN"]
+  },
+  {
+    "tema": "Secciones 232 / 301 (sugerida)",
+    "variantes": ["Section 232", "Section 301"]
+  },
+  {
+    "tema": "Antidumping (sugerida)",
+    "variantes": ["antidumping", "anti-dumping", "countervailing"]
+  },
+  {
+    "tema": "Reglas de origen (sugerida)",
+    "variantes": ["rules of origin", "rule of origin"]
+  },
+  {
+    "tema": "Remesas (sugerida)",
+    "variantes": ["remittance", "remittances"]
+  }
+]
