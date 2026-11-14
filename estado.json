@@ -2,6 +2,69 @@
  "17697cdd26": {
   "fallos": 0,
   "nombre": "USDA - Latest News",
+  "ultimas": [
+   {
+    "det": null,
+    "t": "The Recipe for a Safe Thanksgiving",
+    "ts": 1794592500000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/13/recipe-safe-thanksgiving"
+   },
+   {
+    "det": null,
+    "t": "Secretary Rollins Honors Veterans with Various Announcements at USDA",
+    "ts": 1794358500000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/10/secretary-rollins-honors-veterans-various-announcements-usda"
+   },
+   {
+    "det": null,
+    "t": "USDA Proposes Federal Rule to Expand Access to Grazing Allotments for American Ranchers",
+    "ts": 1794348000000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/10/usda-proposes-federal-rule-expand-access-grazing-allotments-american-ranchers"
+   },
+   {
+    "det": null,
+    "t": "USDA Begins Hiring for Nation’s Largest Facility to Combat New World Screwworm",
+    "ts": 1794343500000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/10/usda-begins-hiring-nations-largest-facility-combat-new-world-screwworm"
+   },
+   {
+    "det": null,
+    "t": "USDA Announces the Great American Christmas Market",
+    "ts": 1793997300000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/06/usda-announces-great-american-christmas-market"
+   },
+   {
+    "det": null,
+    "t": "Secretary Rollins Announces 8 Additional Companies Joining USDA’s Product of USA Label Initiative",
+    "ts": 1793396100000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/10/30/secretary-rollins-announces-8-additional-companies-joining-usdas-product-usa-label-initiative"
+   },
+   {
+    "det": null,
+    "t": "USDA is Fueling Healthy Futures with Historic New Child Nutrition Funding",
+    "ts": 1793393400000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/10/30/usda-fueling-healthy-futures-historic-new-child-nutrition-funding"
+   },
+   {
+    "det": null,
+    "t": "USDA Rural Development Announces Loan Guarantee for New Beef Processing Facility in Dimmitt, Texas",
+    "ts": 1793307600000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/10/29/usda-rural-development-announces-loan-guarantee-new-beef-processing-facility-dimmitt-texas"
+   },
+   {
+    "det": null,
+    "t": "USDA Announces $472.5 Million Food Purchase to Support U.S. Producers and Strengthen America’s Food Supply",
+    "ts": 1793290200000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/10/29/usda-announces-4725-million-food-purchase-support-us-producers-and-strengthen-americas-food-supply"
+   },
+   {
+    "det": null,
+    "t": "Secretary Rollins Commends Governors for Taking Action on Emergency Diesel Relief; Encourages Remaining States to Follow Suit",
+    "ts": 1793280300000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/10/29/secretary-rollins-commends-governors-taking-action-emergency-diesel-relief-encourages-remaining"
+   }
+  ],
+  "uv": 2,
   "vistos": [
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/13/recipe-safe-thanksgiving",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/10/secretary-rollins-honors-veterans-various-announcements-usda",
