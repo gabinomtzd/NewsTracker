@@ -51,6 +51,69 @@
  "62b8ae2099": {
   "fallos": 0,
   "nombre": "Treasury - Press Releases",
+  "ultimas": [
+   {
+    "det": null,
+    "t": "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0689/"
+   },
+   {
+    "det": null,
+    "t": "Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0688/"
+   },
+   {
+    "det": null,
+    "t": "FATF Recognizes Effectiveness of U.S. AML/CFT System, Advances Key Illicit Finance Initiatives",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0687/"
+   },
+   {
+    "det": null,
+    "t": "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0686/"
+   },
+   {
+    "det": null,
+    "t": "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0685/"
+   },
+   {
+    "det": null,
+    "t": "READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0684/"
+   },
+   {
+    "det": null,
+    "t": "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0683/"
+   },
+   {
+    "det": null,
+    "t": "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0682/"
+   },
+   {
+    "det": null,
+    "t": "Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0681/"
+   },
+   {
+    "det": null,
+    "t": "Quarterly Refunding Statement of Assistant Secretary for Financial Markets Hunter McMaster",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0678/"
+   }
+  ],
+  "uv": 2,
   "vistos": [
    "sb0689",
    "sb0688",
@@ -69,6 +132,189 @@
  "8e475f20a0": {
   "fallos": 0,
   "nombre": "Casa Blanca - News",
+  "ultimas": [
+   {
+    "det": null,
+    "t": "Trump Administration Delivers Record-Setting Results Through Executive Action",
+    "ts": 1794575400000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/"
+   },
+   {
+    "det": null,
+    "t": "First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier",
+    "ts": 1794522997000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/"
+   },
+   {
+    "det": null,
+    "t": "Nominations Sent to the Senate",
+    "ts": 1794521081000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/"
+   },
+   {
+    "det": null,
+    "t": "“Democrats Will Help Us”: Caravans March North as Dems Vow to Reopen the Border. President Trump Won’t Let It Happen.",
+    "ts": 1794520013000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on National Native American Heritage Month",
+    "ts": 1794519341000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on National Military Families Month",
+    "ts": 1794519291000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on National Entrepreneurship Month",
+    "ts": 1794519217000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/"
+   },
+   {
+    "det": null,
+    "t": "First Lady Melania Trump Honors America’s Elite Soldiers and the Sacrifices of Military Families",
+    "ts": 1794503884000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families/"
+   },
+   {
+    "det": null,
+    "t": "“We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington",
+    "ts": 1794435471000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on Victory Day for World War I",
+    "ts": 1794425408000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on National Diabetes Month",
+    "ts": 1794367074000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on the Birthday of the United States Marine Corps",
+    "ts": 1794366982000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on National Alzheimer’s Disease Awareness Month",
+    "ts": 1794366887000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on Critical Infrastructure Security and Resilience Month",
+    "ts": 1794366775000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/"
+   },
+   {
+    "det": null,
+    "t": "Nominations and Withdrawals Sent to the Senate",
+    "ts": 1794347809000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/"
+   },
+   {
+    "det": null,
+    "t": "VETERANS DAY, 2026",
+    "ts": 1794345135000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+    "ts": 1794345067000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/"
+   },
+   {
+    "det": null,
+    "t": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law",
+    "ts": 1794344619000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/"
+   },
+   {
+    "det": null,
+    "t": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression",
+    "ts": 1794344582000,
+    "u": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-advances-wildfire-suppression/"
+   },
+   {
+    "det": null,
+    "t": "Secretary Hegseth Torches Baseless Impeachment Stunt: “This Is Not Patriotism; This Is Sabotage”",
+    "ts": 1794337040000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/"
+   },
+   {
+    "det": null,
+    "t": "First Lady Melania Trump’s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean",
+    "ts": 1794334929000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/"
+   },
+   {
+    "det": null,
+    "t": "Nominations and Withdrawals Sent to the Senate",
+    "ts": 1794264809000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on National American History and Founders Month",
+    "ts": 1794251675000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/"
+   },
+   {
+    "det": null,
+    "t": "ICYMI: President Trump on 60 Minutes: “We Have Historically Good Numbers”",
+    "ts": 1794251015000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/"
+   },
+   {
+    "det": null,
+    "t": "ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows",
+    "ts": 1794165042000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on Diwali",
+    "ts": 1794160047000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on Honoring the American Flag",
+    "ts": 1794088800000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/"
+   },
+   {
+    "det": null,
+    "t": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund",
+    "ts": 1794079919000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/"
+   },
+   {
+    "det": null,
+    "t": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+    "ts": 1794002215000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/"
+   },
+   {
+    "det": null,
+    "t": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
+    "ts": 1793987490000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/"
+   }
+  ],
+  "uv": 2,
   "vistos": [
    "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier",
@@ -126,6 +372,189 @@
  "95180fe28d": {
   "fallos": 0,
   "nombre": "Casa Blanca - Presidential Actions",
+  "ultimas": [
+   {
+    "det": null,
+    "t": "Nominations Sent to the Senate",
+    "ts": 1794521081000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/"
+   },
+   {
+    "det": null,
+    "t": "Nominations and Withdrawals Sent to the Senate",
+    "ts": 1794347809000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/"
+   },
+   {
+    "det": null,
+    "t": "VETERANS DAY, 2026",
+    "ts": 1794345135000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+    "ts": 1794345067000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/"
+   },
+   {
+    "det": null,
+    "t": "Nominations and Withdrawals Sent to the Senate",
+    "ts": 1794264809000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/"
+   },
+   {
+    "det": null,
+    "t": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
+    "ts": 1793919116000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/"
+   },
+   {
+    "det": null,
+    "t": "ANTI-COMMUNISM WEEK, 2026",
+    "ts": 1793745149000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/"
+   },
+   {
+    "det": null,
+    "t": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
+    "ts": 1793742659000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/"
+   },
+   {
+    "det": null,
+    "t": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
+    "ts": 1793217828000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/"
+   },
+   {
+    "det": null,
+    "t": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED ",
+    "ts": 1792785069000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/"
+   },
+   {
+    "det": null,
+    "t": "National Seafood Month, 2026",
+    "ts": 1792702282000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/national-seafood-month-2026/"
+   },
+   {
+    "det": null,
+    "t": "DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE",
+    "ts": 1792702118000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics ",
+    "ts": 1792701676000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/"
+   },
+   {
+    "det": null,
+    "t": "Adjusting Imports of Wind Turbines and Their Parts and Components into the United States",
+    "ts": 1792697531000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states/"
+   },
+   {
+    "det": null,
+    "t": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
+    "ts": 1792423557000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/"
+   },
+   {
+    "det": null,
+    "t": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+    "ts": 1792197264000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/"
+   },
+   {
+    "det": null,
+    "t": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
+    "ts": 1791421200000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/"
+   },
+   {
+    "det": null,
+    "t": "National Energy Dominance Month, 2026",
+    "ts": 1791403521000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/"
+   },
+   {
+    "det": null,
+    "t": "Columbus Day, 2026",
+    "ts": 1791402468000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/"
+   },
+   {
+    "det": null,
+    "t": "Emergency Tax Relief on Diesel Fuel",
+    "ts": 1791249233000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/"
+   },
+   {
+    "det": null,
+    "t": "National Manufacturing Day, 2026",
+    "ts": 1790969398000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/"
+   },
+   {
+    "det": null,
+    "t": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors",
+    "ts": 1790717028000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/"
+   },
+   {
+    "det": null,
+    "t": "Inaugurating The Era Of Super Intelligence",
+    "ts": 1790716645000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/"
+   },
+   {
+    "det": null,
+    "t": "Streamlining Access to Government Services Through America.gov",
+    "ts": 1790693454000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/"
+   },
+   {
+    "det": null,
+    "t": "Nominations Sent to the Senate",
+    "ts": 1790625568000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/"
+   },
+   {
+    "det": null,
+    "t": "Gold Star Mother’s And Family’s Day, 2026",
+    "ts": 1790365652000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/"
+   },
+   {
+    "det": null,
+    "t": "Enhancing Program Integrity and Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",
+    "ts": 1789768963000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/"
+   },
+   {
+    "det": null,
+    "t": "Restriction on Entry of Certain Nonimmigrant Workers",
+    "ts": 1789767733000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/restriction-on-entry-of-certain-nonimmigrant-workers-faad/"
+   },
+   {
+    "det": null,
+    "t": "RESTORING AMERICAN SALTWATER ANGLING AND RECREATION",
+    "ts": 1789680710000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/"
+   },
+   {
+    "det": null,
+    "t": "Reinvigorating America’s Hunting Heritage",
+    "ts": 1789680414000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/"
+   }
+  ],
+  "uv": 2,
   "vistos": [
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4",
