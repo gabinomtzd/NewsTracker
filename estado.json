@@ -198,6 +198,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1794769255083,
+    "t": "ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding",
+    "ts": 1794628800000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/"
+   },
+   {
     "det": null,
     "t": "Trump Administration Delivers Record-Setting Results Through Executive Action",
     "ts": 1794575400000,
@@ -370,16 +376,11 @@
     "t": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
     "ts": 1794002215000,
     "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/"
-   },
-   {
-    "det": null,
-    "t": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
-    "ts": 1793987490000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding",
    "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
