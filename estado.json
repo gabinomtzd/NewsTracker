@@ -4,6 +4,12 @@
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
+    "det": 1794843055783,
+    "t": "USDA Awards $5 Million to Strengthen Summer Camp Safety and Protect Children Nationwide",
+    "ts": 1794842700000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/usda-awards-5-million-strengthen-summer-camp-safety-and-protect-children-nationwide"
+   },
+   {
     "det": null,
     "t": "The Recipe for a Safe Thanksgiving",
     "ts": 1794592500000,
@@ -66,6 +72,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/usda-awards-5-million-strengthen-summer-camp-safety-and-protect-children-nationwide",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/13/recipe-safe-thanksgiving",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/10/secretary-rollins-honors-veterans-various-announcements-usda",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/10/usda-proposes-federal-rule-expand-access-grazing-allotments-american-ranchers",
@@ -86,6 +93,7 @@
   "fallos": 0,
   "nombre": "State Dept - Press Releases",
   "vistos": [
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-election-of-jennifer-warren-to-the-international-telecommunication-union-radio-regulations-board",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-at-the-federalist-societys-2026-national-lawyers-convention",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-g7-foreign-ministers-meeting-in-paris",
@@ -664,6 +672,7 @@
   "fallos": 0,
   "nombre": "USTR - Press Releases",
   "vistos": [
+   "2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
    "2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
    "2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng",
    "2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-madobox",
