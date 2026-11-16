@@ -1,6 +1,6 @@
 {
  "17697cdd26": {
-  "fallos": 0,
+  "fallos": 1,
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
@@ -92,8 +92,70 @@
  "28fe2077f8": {
   "fallos": 0,
   "nombre": "State Dept - Press Releases",
+  "ultimas": [
+   {
+    "det": null,
+    "t": "Secretary Rubio’s Call with Thai Deputy Prime Minister and Foreign Minister Sihasak",
+    "ts": 1794848712000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-thai-deputy-prime-minister-and-foreign-minister-sihasak/"
+   },
+   {
+    "det": null,
+    "t": "United States Welcomes Election of Jennifer Warren to the International Telecommunication Union Radio Regulations Board",
+    "ts": 1794841742000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-election-of-jennifer-warren-to-the-international-telecommunication-union-radio-regulations-board/"
+   },
+   {
+    "det": null,
+    "t": "The San Francisco Declaration on the Secure Foundations of Enduring Prosperity",
+    "ts": 1794797754000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity/"
+   },
+   {
+    "det": null,
+    "t": "Secretary of State Marco Rubio at the Federalist Society’s 2026 National Lawyers Convention",
+    "ts": 1794624525000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-at-the-federalist-societys-2026-national-lawyers-convention/"
+   },
+   {
+    "det": null,
+    "t": "Joint Statement on the G7 Foreign Ministers Meeting in Paris",
+    "ts": 1794613385000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-g7-foreign-ministers-meeting-in-paris/"
+   },
+   {
+    "det": null,
+    "t": "Deputy Secretary Landau’s Meeting with Singapore Minister of Digital Development and Information Teo",
+    "ts": 1794609530000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-meeting-with-singapore-minister-of-digital-development-and-information-teo/"
+   },
+   {
+    "det": null,
+    "t": "Secretary Rubio’s Meeting with President of Honduras Asfura",
+    "ts": 1794601155000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-president-of-honduras-asfura/"
+   },
+   {
+    "det": null,
+    "t": "United States Welcomes Re-Election of Doreen Bogdan-Martin as Secretary-General of the International Telecommunication Union",
+    "ts": 1794592957000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-re-election-of-doreen-bogdan-martin-as-secretary-general-of-the-international-telecommunication-union/"
+   },
+   {
+    "det": null,
+    "t": "Foreign Terrorist Designations of Guatemalan Groups",
+    "ts": 1794590235000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/foreign-terrorist-designations-of-guatemalan-groups/"
+   },
+   {
+    "det": null,
+    "t": "The USA Pavilion at Specialized Expo 2027 in Belgrade, Serbia, Announces Theme",
+    "ts": 1794494969000,
+    "u": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-usa-pavilion-at-specialized-expo-2027-in-belgrade-serbia-announces-theme/"
+   }
+  ],
+  "uv": 2,
   "vistos": [
-   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-travel-to-tajikistan-turkiye-and-turkmenistan",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-thai-deputy-prime-minister-and-foreign-minister-sihasak",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-election-of-jennifer-warren-to-the-international-telecommunication-union-radio-regulations-board",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity",
@@ -104,6 +166,7 @@
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-re-election-of-doreen-bogdan-martin-as-secretary-general-of-the-international-telecommunication-union",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/foreign-terrorist-designations-of-guatemalan-groups",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-usa-pavilion-at-specialized-expo-2027-in-belgrade-serbia-announces-theme",
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-travel-to-tajikistan-turkiye-and-turkmenistan",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/assistant-secretary-weiland-delivers-new-tools-to-counter-narcoterrorism-in-ecuador",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-u-s-japan-seabed-mineral-resource-development",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/under-secretary-for-arms-control-and-international-security-thomas-g-dinanno-advances-security-cooperation-with-peru-and-colombia",
@@ -669,10 +732,195 @@
    "https://www.whitehouse.gov/presidential-actions/2026/09/constitution-day-citizenship-day-and-constitution-week-2026"
   ]
  },
- "_gh": {},
+ "_gh": {
+  "cf_caido": true
+ },
  "d1a910289c": {
   "fallos": 0,
   "nombre": "USTR - Press Releases",
+  "ultimas": [
+   {
+    "det": null,
+    "t": "Ambassador Greer Pens Letter to the Editor of the Wall Street Journal on how Tariffs are Advancing Americans’ Long-Term Prosperity",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long"
+   },
+   {
+    "det": null,
+    "t": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Industrias FG",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg"
+   },
+   {
+    "det": null,
+    "t": "Readout of Ambassador Greer’s Call with China’s Vice Premier He Lifeng",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
+   },
+   {
+    "det": null,
+    "t": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Madobox",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-madobox"
+   },
+   {
+    "det": null,
+    "t": "United States and Mexico Announce Memorandum of Understanding at Industrias Tecnos Facility",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/united-states-and-mexico-announce-memorandum-understanding-industrias-tecnos-facility"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Issues Statement on President Trump’s Intent to Terminate Rwanda and South Africa from the AGOA Trade Preference Program",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-issues-statement-president-trumps-intent-terminate-rwanda-and-south-africa-agoa"
+   },
+   {
+    "det": null,
+    "t": "America First Seafood Strategy Charts Course to Restoring U.S. Seafood Dominance",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Issues Statement on the Status of the U.S.-EU Détente Following Record-Breaking Loan from the European Investment Bank to Airbus",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-issues-statement-status-us-eu-detente-following-record-breaking-loan-european"
+   },
+   {
+    "det": null,
+    "t": "United States Announces Successful Resolution of Rapid Response Labor Mechanism Matter at Amphenol Optimize",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-announces-successful-resolution-rapid-response-labor-mechanism-matter-amphenol"
+   },
+   {
+    "det": null,
+    "t": "United States and Mexico Announce Course of Remediation at Minera Peñasquito",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-and-mexico-announce-course-remediation-minera-penasquito"
+   },
+   {
+    "det": null,
+    "t": "USTR Announces 2026 Award Recipients",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-announces-2026-award-recipients"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Highlights the Success of President Trump’s Trade Program in Fueling America’s Industrial Resurgence While Touring Utah Plants",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-highlights-success-president-trumps-trade-program-fueling-americas-industrial"
+   },
+   {
+    "det": null,
+    "t": "United States Announces Successful Resolution of Rapid Response Labor Mechanism Matter at Alimentos Grole Facility",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-announces-successful-resolution-rapid-response-labor-mechanism-matter-alimentos-grole"
+   },
+   {
+    "det": null,
+    "t": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Carolina Performance Fabrics",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-seeks-mexicos-review-alleged-denial-workers-rights-carolina-performance-fabrics"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer to Tour Utah’s Advanced Manufacturing Plants",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants"
+   },
+   {
+    "det": null,
+    "t": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at GLM Components Mexico",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-seeks-mexicos-review-alleged-denial-workers-rights-glm-components-mexico"
+   },
+   {
+    "det": null,
+    "t": "Fourteen Economies Join the United States in Signing a Joint Ministerial Statement to Address Global Excess Capacity and Production in Key Manufacturing Sectors",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/fourteen-economies-join-united-states-signing-joint-ministerial-statement-address-global-excess"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Hosts G20 Trade Ministers in Milwaukee to Showcase the History and Strength of American Manufacturing",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-hosts-g20-trade-ministers-milwaukee-showcase-history-and-strength-american"
+   },
+   {
+    "det": null,
+    "t": "USTR Seeks Public Comment on the 2027 Joint Review of USMCA",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Commends Trade Ministers Signing on to Statement Eliminating Forced Labor in Global Supply Chains",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-commends-trade-ministers-signing-statement-eliminating-forced-labor-global-supply"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Issues a Statement on G20 Trade Ministers Reaching Consensus on Condemning the Weaponization of Food through Coercive Trade Actions",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-issues-statement-g20-trade-ministers-reaching-consensus-condemning-weaponization"
+   },
+   {
+    "det": null,
+    "t": "Chair’s Statement of the G20 Trade Ministerial",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/chairs-statement-g20-trade-ministerial"
+   },
+   {
+    "det": null,
+    "t": "United States and Mexico Announce Course of Remediation at Corporación de Occidente Facility",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/united-states-and-mexico-announce-course-remediation-corporacion-de-occidente-facility"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Delivers Opening Remarks at the 2026 G20 Trade Ministerial",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-delivers-opening-remarks-2026-g20-trade-ministerial"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Issues Statement Following the Ministerial Meeting of the Global Forum on Steel Excess Capacity",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-following-ministerial-meeting-global-forum-steel-excess-capacity"
+   },
+   {
+    "det": null,
+    "t": "United States and Mexico Announce Successful Resolution of Rapid Response Labor Mechanism Matter at Akwel Juárez México Facility",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/united-states-and-mexico-announce-successful-resolution-rapid-response-labor-mechanism-matter-akwel"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer Issues a Statement on Announcement of Recommendations from the U.S.-China Board of Trade",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-announcement-recommendations-us-china-board-trade"
+   },
+   {
+    "det": null,
+    "t": "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Yokohama Tire Manufacturing Mexico, S.A. de C.V.",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/united-states-seeks-mexicos-review-alleged-denial-workers-rights-yokohama-tire-manufacturing-mexico"
+   },
+   {
+    "det": null,
+    "t": "Ambassador Greer to Travel to Milwaukee, Wisconsin to Host the G20 Trade Ministerial",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-travel-milwaukee-wisconsin-host-g20-trade-ministerial"
+   },
+   {
+    "det": null,
+    "t": "USTR Announces Fiscal Year 2027 WTO Tariff-Rate Quota Allocations for Raw Cane Sugar",
+    "ts": null,
+    "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar"
+   }
+  ],
+  "uv": 2,
   "vistos": [
    "2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
    "2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-industrias-fg",
