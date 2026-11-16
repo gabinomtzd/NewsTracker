@@ -281,6 +281,18 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1794863156578,
+    "t": "Nominations Sent to the Senate",
+    "ts": 1794862209000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/"
+   },
+   {
+    "det": 1794863155578,
+    "t": "President Trump’s Immigration Policies Are Saving American Lives",
+    "ts": 1794861632000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/"
+   },
+   {
     "det": 1794861354893,
     "t": "ICYMI: “Trump border crackdown drives encounters to record October low as zero-release streak hits 18 months”",
     "ts": 1794860990000,
@@ -447,22 +459,12 @@
     "t": "ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows",
     "ts": 1794165042000,
     "u": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on Diwali",
-    "ts": 1794160047000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on Honoring the American Flag",
-    "ts": 1794088800000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
+   "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives",
    "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months",
    "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward",
    "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding",
