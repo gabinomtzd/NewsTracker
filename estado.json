@@ -1,6 +1,6 @@
 {
  "17697cdd26": {
-  "fallos": 1,
+  "fallos": 0,
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
@@ -156,6 +156,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-travel-to-tajikistan-turkiye-and-turkmenistan",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-thai-deputy-prime-minister-and-foreign-minister-sihasak",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-election-of-jennifer-warren-to-the-international-telecommunication-union-radio-regulations-board",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity",
@@ -166,7 +167,6 @@
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-re-election-of-doreen-bogdan-martin-as-secretary-general-of-the-international-telecommunication-union",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/foreign-terrorist-designations-of-guatemalan-groups",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-usa-pavilion-at-specialized-expo-2027-in-belgrade-serbia-announces-theme",
-   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-travel-to-tajikistan-turkiye-and-turkmenistan",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/assistant-secretary-weiland-delivers-new-tools-to-counter-narcoterrorism-in-ecuador",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-u-s-japan-seabed-mineral-resource-development",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/under-secretary-for-arms-control-and-international-security-thomas-g-dinanno-advances-security-cooperation-with-peru-and-colombia",
@@ -733,7 +733,7 @@
   ]
  },
  "_gh": {
-  "cf_caido": true
+  "cf_caido": false
  },
  "d1a910289c": {
   "fallos": 0,
