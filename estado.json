@@ -163,6 +163,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/reward-offers-totaling-up-to-20-million-for-information-leading-to-arrests-and-or-convictions-of-guatemalan-narcoterrorists",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-meeting-with-federated-states-of-micronesia-president-simina",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-travel-to-tajikistan-turkiye-and-turkmenistan",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-thai-deputy-prime-minister-and-foreign-minister-sihasak",
@@ -523,6 +524,12 @@
   "nombre": "Casa Blanca - Presidential Actions",
   "ultimas": [
    {
+    "det": 1794862273843,
+    "t": "Nominations Sent to the Senate",
+    "ts": 1794862209000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/"
+   },
+   {
     "det": null,
     "t": "Nominations Sent to the Senate",
     "ts": 1794521081000,
@@ -695,16 +702,11 @@
     "t": "RESTORING AMERICAN SALTWATER ANGLING AND RECREATION",
     "ts": 1789680710000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/"
-   },
-   {
-    "det": null,
-    "t": "Reinvigorating America’s Hunting Heritage",
-    "ts": 1789680414000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4",
    "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026",
