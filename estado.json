@@ -4,6 +4,12 @@
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
+    "det": 1794859576742,
+    "t": "Registration is Now Open for USDA’s 103rd Agricultural Outlook Forum",
+    "ts": 1794855600000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/registration-now-open-usdas-103rd-agricultural-outlook-forum"
+   },
+   {
     "det": 1794843055783,
     "t": "USDA Awards $5 Million to Strengthen Summer Camp Safety and Protect Children Nationwide",
     "ts": 1794842700000,
@@ -72,6 +78,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/registration-now-open-usdas-103rd-agricultural-outlook-forum",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/usda-awards-5-million-strengthen-summer-camp-safety-and-protect-children-nationwide",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/13/recipe-safe-thanksgiving",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/10/secretary-rollins-honors-veterans-various-announcements-usda",
