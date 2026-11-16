@@ -281,6 +281,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": null,
+    "t": "Nominations Sent to the Senate",
+    "ts": 1794862209000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/"
+   },
+   {
     "det": 1794863155578,
     "t": "President Trump’s Immigration Policies Are Saving American Lives",
     "ts": 1794861632000,
@@ -453,16 +459,11 @@
     "t": "ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows",
     "ts": 1794165042000,
     "u": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on Diwali",
-    "ts": 1794160047000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
    "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives",
    "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months",
    "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward",
@@ -493,7 +494,6 @@
    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers",
    "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71",
-   "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund",
    "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff",
