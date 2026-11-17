@@ -298,6 +298,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1794957358620,
+    "t": "Presidential Message on American Education Week",
+    "ts": 1794956200000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/"
+   },
+   {
     "det": 1794931259248,
     "t": "Quad Leaders’ Summit Joint Press Release",
     "ts": 1794928856000,
@@ -470,16 +476,11 @@
     "t": "Nominations and Withdrawals Sent to the Senate",
     "ts": 1794264809000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on National American History and Founders Month",
-    "ts": 1794251675000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb",
    "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release",
    "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
