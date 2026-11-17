@@ -282,6 +282,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1794920461112,
+    "t": "Joint Statement on an Agreement Between the United States of America and the Kingdom of Thailand on Reciprocal Trade",
+    "ts": 1794919407000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/"
+   },
+   {
     "det": null,
     "t": "Nominations Sent to the Senate",
     "ts": 1794862209000,
@@ -454,16 +460,11 @@
     "t": "ICYMI: President Trump on 60 Minutes: “We Have Historically Good Numbers”",
     "ts": 1794251015000,
     "u": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/"
-   },
-   {
-    "det": null,
-    "t": "ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows",
-    "ts": 1794165042000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
    "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives",
    "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months",
