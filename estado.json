@@ -201,6 +201,12 @@
   "nombre": "Treasury - Press Releases",
   "ultimas": [
    {
+    "det": 1794931571231,
+    "t": "FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0691/"
+   },
+   {
     "det": 1794925856623,
     "t": "Treasury, IRS Issue Final Rules to Help Hardworking Americans Build a Financially Secure Retirement",
     "ts": null,
@@ -269,6 +275,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "sb0691",
    "sb0690",
    "sb0689",
    "sb0688",
