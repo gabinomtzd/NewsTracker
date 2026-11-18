@@ -207,6 +207,12 @@
   "nombre": "Treasury - Press Releases",
   "ultimas": [
    {
+    "det": 1795024858466,
+    "t": "Operation Economic Outcast Targets Iran’s Proxy Networks",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0692/"
+   },
+   {
     "det": 1794931571231,
     "t": "FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions",
     "ts": null,
@@ -281,6 +287,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "sb0692",
    "sb0691",
    "sb0690",
    "sb0689",
