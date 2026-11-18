@@ -301,6 +301,18 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": null,
+    "t": "Fact Sheet: President Donald J. Trump Secures Historic Economic Deals for American Workers and Strengthens America’s Leadership in Asia",
+    "ts": 1795017062000,
+    "u": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/"
+   },
+   {
+    "det": null,
+    "t": "“No Indication of a Cyberattack”: DNI Clayton and Secretary Rubio on Recent Tech Outages",
+    "ts": 1795016603000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/"
+   },
+   {
     "det": 1794957358620,
     "t": "Presidential Message on American Education Week",
     "ts": 1794956200000,
@@ -467,22 +479,12 @@
     "t": "Secretary Hegseth Torches Baseless Impeachment Stunt: “This Is Not Patriotism; This Is Sabotage”",
     "ts": 1794337040000,
     "u": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/"
-   },
-   {
-    "det": null,
-    "t": "First Lady Melania Trump’s Fostering the Future Together Grows Its International Momentum Across the United States, Asia, Europe, and the Caribbean",
-    "ts": 1794334929000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/"
-   },
-   {
-    "det": null,
-    "t": "Nominations and Withdrawals Sent to the Senate",
-    "ts": 1794264809000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia",
+   "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb",
    "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release",
    "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade",
@@ -513,8 +515,6 @@
    "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b",
-   "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia",
-   "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month",
    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers",
    "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows",
