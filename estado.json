@@ -208,6 +208,12 @@
   "nombre": "Treasury - Press Releases",
   "ultimas": [
    {
+    "det": 1795035957669,
+    "t": "Treasury International Capital Data for September",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0693/"
+   },
+   {
     "det": 1795024858466,
     "t": "Operation Economic Outcast Targets Iran’s Proxy Networks",
     "ts": null,
@@ -288,6 +294,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "sb0693",
    "sb0692",
    "sb0691",
    "sb0690",
