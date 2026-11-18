@@ -208,6 +208,12 @@
   "nombre": "Treasury - Press Releases",
   "ultimas": [
    {
+    "det": 1795036257700,
+    "t": "Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Annual Consumer Advisory on Holiday Scams",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0694/"
+   },
+   {
     "det": 1795035957669,
     "t": "Treasury International Capital Data for September",
     "ts": null,
@@ -294,6 +300,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "sb0694",
    "sb0693",
    "sb0692",
    "sb0691",
