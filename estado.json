@@ -209,6 +209,18 @@
   "nombre": "Treasury - Press Releases",
   "ultimas": [
    {
+    "det": 1795102264179,
+    "t": "Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0696/"
+   },
+   {
+    "det": 1795102263179,
+    "t": "Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0695/"
+   },
+   {
     "det": 1795036257700,
     "t": "Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Annual Consumer Advisory on Holiday Scams",
     "ts": null,
@@ -301,6 +313,8 @@
   ],
   "uv": 2,
   "vistos": [
+   "sb0696",
+   "sb0695",
    "sb0694",
    "sb0693",
    "sb0692",
