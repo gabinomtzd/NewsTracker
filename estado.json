@@ -325,6 +325,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795098657039,
+    "t": "U.S.-Russia-China Heads of State Declaration toward Peace",
+    "ts": 1795096384000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"
+   },
+   {
     "det": null,
     "t": "Fact Sheet: President Donald J. Trump Secures Historic Economic Deals for American Workers and Strengthens America’s Leadership in Asia",
     "ts": 1795017062000,
@@ -497,16 +503,11 @@
     "t": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression",
     "ts": 1794344582000,
     "u": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-advances-wildfire-suppression/"
-   },
-   {
-    "det": null,
-    "t": "Secretary Hegseth Torches Baseless Impeachment Stunt: “This Is Not Patriotism; This Is Sabotage”",
-    "ts": 1794337040000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace",
    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia",
    "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb",
