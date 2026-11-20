@@ -360,12 +360,6 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
-    "det": 1795215954371,
-    "t": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk",
-    "ts": 1795215463000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/"
-   },
-   {
     "det": null,
     "t": "H.R. 10167 – Common Cents Act",
     "ts": 1795203698000,
@@ -538,11 +532,16 @@
     "t": "Presidential Message on the Birthday of the United States Marine Corps",
     "ts": 1794366982000,
     "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/"
+   },
+   {
+    "det": null,
+    "t": "Presidential Message on National Alzheimer’s Disease Awareness Month",
+    "ts": 1794366887000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/"
    }
   ],
   "uv": 2,
   "vistos": [
-   "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk",
    "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act",
    "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director",
    "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
@@ -573,6 +572,7 @@
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc",
+   "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4",
    "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026",
