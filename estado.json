@@ -349,6 +349,12 @@
     "u": "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/"
    },
    {
+    "det": 1795185054367,
+    "t": "Presidential Message on National Rural Health Day",
+    "ts": 1795125600000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day/"
+   },
+   {
     "det": 1795117562055,
     "t": "ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen",
     "ts": 1795116020000,
@@ -515,17 +521,12 @@
     "t": "VETERANS DAY, 2026",
     "ts": 1794345135000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
-    "ts": 1794345067000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/"
    }
   ],
   "uv": 2,
   "vistos": [
    "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history",
+   "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day",
    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen",
    "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace",
    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia",
