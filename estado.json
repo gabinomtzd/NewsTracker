@@ -345,6 +345,12 @@
   "ultimas": [
    {
     "det": null,
+    "t": "H.R. 10167 – Common Cents Act",
+    "ts": 1795203698000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/"
+   },
+   {
+    "det": null,
     "t": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director",
     "ts": 1795193592000,
     "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/"
@@ -516,16 +522,11 @@
     "t": "Presidential Message on National Alzheimer’s Disease Awareness Month",
     "ts": 1794366887000,
     "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on Critical Infrastructure Security and Resilience Month",
-    "ts": 1794366775000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act",
    "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director",
    "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
    "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history",
@@ -556,7 +557,6 @@
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39",
-   "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4",
    "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026",
    "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states",
