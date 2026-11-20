@@ -1,6 +1,6 @@
 {
  "17697cdd26": {
-  "fallos": 1,
+  "fallos": 0,
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
@@ -222,6 +222,12 @@
   "nombre": "Treasury - Press Releases",
   "ultimas": [
    {
+    "det": 1795208755244,
+    "t": "Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran’s Oil Sector for Personal Gain",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0697/"
+   },
+   {
     "det": 1795102264179,
     "t": "Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels",
     "ts": null,
@@ -326,6 +332,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "sb0697",
    "sb0696",
    "sb0695",
    "sb0694",
