@@ -343,6 +343,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795190460583,
+    "t": "President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security",
+    "ts": 1795189193000,
+    "u": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/"
+   },
+   {
     "det": null,
     "t": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History",
     "ts": 1795140759000,
@@ -515,16 +521,11 @@
     "t": "Nominations and Withdrawals Sent to the Senate",
     "ts": 1794347809000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/"
-   },
-   {
-    "det": null,
-    "t": "VETERANS DAY, 2026",
-    "ts": 1794345135000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
    "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day",
    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen",
