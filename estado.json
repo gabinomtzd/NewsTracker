@@ -4,6 +4,12 @@
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
+    "det": 1795207267939,
+    "t": "USDA Puts Ranchers First with BRAND Approval, Securing American Beef Herd Retention",
+    "ts": 1795204800000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/20/usda-puts-ranchers-first-brand-approval-securing-american-beef-herd-retention"
+   },
+   {
     "det": 1794859576742,
     "t": "Registration is Now Open for USDA’s 103rd Agricultural Outlook Forum",
     "ts": 1794855600000,
@@ -78,6 +84,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "https://www.usda.gov/about-usda/news/press-releases/2026/11/20/usda-puts-ranchers-first-brand-approval-securing-american-beef-herd-retention",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/registration-now-open-usdas-103rd-agricultural-outlook-forum",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/usda-awards-5-million-strengthen-summer-camp-safety-and-protect-children-nationwide",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/13/recipe-safe-thanksgiving",
