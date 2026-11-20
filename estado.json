@@ -343,6 +343,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795194655286,
+    "t": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director",
+    "ts": 1795193592000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/"
+   },
+   {
     "det": 1795190460583,
     "t": "President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security",
     "ts": 1795189193000,
@@ -515,16 +521,11 @@
     "t": "Presidential Message on Critical Infrastructure Security and Resilience Month",
     "ts": 1794366775000,
     "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/"
-   },
-   {
-    "det": null,
-    "t": "Nominations and Withdrawals Sent to the Senate",
-    "ts": 1794347809000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director",
    "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
    "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day",
