@@ -619,6 +619,18 @@
   "nombre": "Casa Blanca - Presidential Actions",
   "ultimas": [
    {
+    "det": 1795228556614,
+    "t": "NATIONAL ADOPTION MONTH, 2026",
+    "ts": 1795228298000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/"
+   },
+   {
+    "det": 1795228555614,
+    "t": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
+    "ts": 1795228265000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/"
+   },
+   {
     "det": 1794862273843,
     "t": "Nominations Sent to the Senate",
     "ts": 1794862209000,
@@ -785,22 +797,12 @@
     "t": "Enhancing Program Integrity and Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",
     "ts": 1789768963000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/"
-   },
-   {
-    "det": null,
-    "t": "Restriction on Entry of Certain Nonimmigrant Workers",
-    "ts": 1789767733000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/restriction-on-entry-of-certain-nonimmigrant-workers-faad/"
-   },
-   {
-    "det": null,
-    "t": "RESTORING AMERICAN SALTWATER ANGLING AND RECREATION",
-    "ts": 1789680710000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026",
+   "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4",
