@@ -377,6 +377,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": null,
+    "t": "First Lady Melania Trump Hails America’s Armed Forces",
+    "ts": 1795461612000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/"
+   },
+   {
     "det": 1795451460606,
     "t": "ICYMI: “White House Convenes Elite Team To Prevent Air Traffic Outages Ahead Of Thanksgiving”",
     "ts": 1795450291000,
@@ -549,16 +555,11 @@
     "t": "“Democrats Will Help Us”: Caravans March North as Dems Vow to Reopen the Border. President Trump Won’t Let It Happen.",
     "ts": 1794520013000,
     "u": "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on National Native American Heritage Month",
-    "ts": 1794519341000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces",
    "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving",
    "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony",
    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting",
@@ -589,7 +590,6 @@
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
    "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4",
-   "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month",
    "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb",
