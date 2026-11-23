@@ -361,6 +361,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795451460606,
+    "t": "ICYMI: “White House Convenes Elite Team To Prevent Air Traffic Outages Ahead Of Thanksgiving”",
+    "ts": 1795450291000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving/"
+   },
+   {
     "det": 1795446057078,
     "t": "Voting Begins for the 2026 National Thanksgiving Turkey Pardon Ceremony",
     "ts": 1795445238000,
@@ -533,16 +539,11 @@
     "t": "Presidential Message on National Native American Heritage Month",
     "ts": 1794519341000,
     "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on National Military Families Month",
-    "ts": 1794519291000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving",
    "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony",
    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting",
    "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law",
