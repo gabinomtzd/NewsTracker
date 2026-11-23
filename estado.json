@@ -1,6 +1,6 @@
 {
  "17697cdd26": {
-  "fallos": 1,
+  "fallos": 0,
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
@@ -379,6 +379,18 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795477258177,
+    "t": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+    "ts": 1795476972000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+   },
+   {
+    "det": 1795477257177,
+    "t": "Fact Sheet: President Donald J. Trump Ensures Expeditious Enforcements of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+    "ts": 1795476837000,
+    "u": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+   },
+   {
     "det": 1795473967219,
     "t": "President Trump Stands with Victims’ Families as Newsom Grants Mass Clemency to Depraved Killers",
     "ts": 1795473230000,
@@ -545,22 +557,12 @@
     "t": "Trump Administration Delivers Record-Setting Results Through Executive Action",
     "ts": 1794575400000,
     "u": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/"
-   },
-   {
-    "det": null,
-    "t": "First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier",
-    "ts": 1794522997000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/"
-   },
-   {
-    "det": null,
-    "t": "Nominations Sent to the Senate",
-    "ts": 1794521081000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
+   "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
    "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces",
    "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving",
@@ -646,6 +648,12 @@
   "fallos": 0,
   "nombre": "Casa Blanca - Presidential Actions",
   "ultimas": [
+   {
+    "det": 1795477259558,
+    "t": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+    "ts": 1795476972000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+   },
    {
     "det": 1795228556614,
     "t": "NATIONAL ADOPTION MONTH, 2026",
@@ -819,16 +827,11 @@
     "t": "Gold Star Mother’s And Family’s Day, 2026",
     "ts": 1790365652000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/"
-   },
-   {
-    "det": null,
-    "t": "Enhancing Program Integrity and Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",
-    "ts": 1789768963000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/enhancing-program-integrity-and-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b-nonimmigrant-visa-program/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
    "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026",
    "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
