@@ -379,6 +379,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795473967219,
+    "t": "President Trump Stands with Victims’ Families as Newsom Grants Mass Clemency to Depraved Killers",
+    "ts": 1795473230000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers/"
+   },
+   {
     "det": null,
     "t": "First Lady Melania Trump Hails America’s Armed Forces",
     "ts": 1795461612000,
@@ -551,16 +557,11 @@
     "t": "Nominations Sent to the Senate",
     "ts": 1794521081000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/"
-   },
-   {
-    "det": null,
-    "t": "“Democrats Will Help Us”: Caravans March North as Dems Vow to Reopen the Border. President Trump Won’t Let It Happen.",
-    "ts": 1794520013000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces",
    "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving",
    "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony",
