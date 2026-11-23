@@ -1,6 +1,6 @@
 {
  "17697cdd26": {
-  "fallos": 0,
+  "fallos": 1,
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
@@ -361,6 +361,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795446057078,
+    "t": "Voting Begins for the 2026 National Thanksgiving Turkey Pardon Ceremony",
+    "ts": 1795445238000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/"
+   },
+   {
     "det": 1795229459085,
     "t": "Fact Sheet: President Donald J. Trump Protects the Executive’s Privileges and Enhances Efficiencies in Federal Contracting",
     "ts": 1795229186000,
@@ -409,10 +415,10 @@
     "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/"
    },
    {
-    "det": 1795190460583,
+    "det": 1795446048078,
     "t": "President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security",
     "ts": 1795189193000,
-    "u": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/"
+    "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/"
    },
    {
     "det": null,
@@ -533,16 +539,11 @@
     "t": "Presidential Message on National Military Families Month",
     "ts": 1794519291000,
     "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/"
-   },
-   {
-    "det": null,
-    "t": "Presidential Message on National Entrepreneurship Month",
-    "ts": 1794519217000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony",
    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting",
    "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law",
    "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026",
@@ -551,7 +552,7 @@
    "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk",
    "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act",
    "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director",
-   "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
+   "https://www.whitehouse.gov/releases/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
    "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day",
    "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen",
@@ -572,6 +573,7 @@
    "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month",
+   "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-elite-soldiers-and-the-sacrifices-of-military-families",
    "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington",
