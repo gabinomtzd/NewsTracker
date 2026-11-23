@@ -379,6 +379,24 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795478167738,
+    "t": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law",
+    "ts": 1795477192000,
+    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/"
+   },
+   {
+    "det": null,
+    "t": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+    "ts": 1795476972000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+   },
+   {
+    "det": null,
+    "t": "Fact Sheet: President Donald J. Trump Ensures Expeditious Enforcements of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+    "ts": 1795476837000,
+    "u": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+   },
+   {
     "det": 1795473967219,
     "t": "President Trump Stands with Victims’ Families as Newsom Grants Mass Clemency to Depraved Killers",
     "ts": 1795473230000,
@@ -539,28 +557,13 @@
     "t": "ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding",
     "ts": 1794628800000,
     "u": "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/"
-   },
-   {
-    "det": null,
-    "t": "Trump Administration Delivers Record-Setting Results Through Executive Action",
-    "ts": 1794575400000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/"
-   },
-   {
-    "det": null,
-    "t": "First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier",
-    "ts": 1794522997000,
-    "u": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/"
-   },
-   {
-    "det": null,
-    "t": "Nominations Sent to the Senate",
-    "ts": 1794521081000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law",
+   "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
+   "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
    "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces",
    "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving",
@@ -591,8 +594,6 @@
    "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier",
    "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
-   "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
-   "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
    "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4",
    "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month",
