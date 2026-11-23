@@ -170,6 +170,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "https://www.state.gov/releases/office-of-the-spokesman/2026/11/first-lady-melania-trumps-fostering-the-future-together-gathers-european-leaders-for-summit-hosted-by-polands-first-lady-marta-nawrocka",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/lebanon-national-day-2",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/sanctioning-iranian-regime-insiders-who-profit-from-stolen-oil-wealth",
    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-sixth-u-s-germany-joint-committee-meeting-on-science-and-technology-cooperation",
@@ -223,6 +224,12 @@
   "fallos": 0,
   "nombre": "Treasury - Press Releases",
   "ultimas": [
+   {
+    "det": 1795457758958,
+    "t": "Operation Economic Outcast Disrupts Iran’s Global Shadow Banking Networks",
+    "ts": null,
+    "u": "https://home.treasury.gov/news/press-releases/sb0699/"
+   },
    {
     "det": 1795457160188,
     "t": "Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking",
@@ -340,6 +347,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "sb0699",
    "sb0698",
    "sb0697",
    "sb0696",
