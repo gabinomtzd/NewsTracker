@@ -1,6 +1,6 @@
 {
  "17697cdd26": {
-  "fallos": 0,
+  "fallos": 1,
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
@@ -380,6 +380,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795542057488,
+    "t": "Gas Prices Plunge Ahead of Thanksgiving — Just as President Trump Predicted",
+    "ts": 1795540720000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/"
+   },
+   {
     "det": null,
     "t": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law",
     "ts": 1795477192000,
@@ -552,16 +558,11 @@
     "t": "ICYMI: Secretary Duffy’s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward",
     "ts": 1794776854000,
     "u": "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/"
-   },
-   {
-    "det": 1794769255083,
-    "t": "ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding",
-    "ts": 1794628800000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted",
    "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law",
    "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
    "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
