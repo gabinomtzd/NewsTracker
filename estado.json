@@ -397,6 +397,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795649153608,
+    "t": "Trump Administration Leads Whole-of-Government Effort to Safely Neutralize Obama-Era Explosives Threat in Iowa",
+    "ts": 1795648256000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa/"
+   },
+   {
     "det": 1795618720935,
     "t": "Thanksgiving Day, 2026",
     "ts": 1795617000000,
@@ -569,16 +575,11 @@
     "t": "Nominations Sent to the Senate",
     "ts": 1794862209000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/"
-   },
-   {
-    "det": 1794863155578,
-    "t": "President Trump’s Immigration Policies Are Saving American Lives",
-    "ts": 1794861632000,
-    "u": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa",
    "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families",
    "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted",
