@@ -4,6 +4,12 @@
   "nombre": "USDA - Latest News",
   "ultimas": [
    {
+    "det": 1795626356400,
+    "t": "Secretary of Agriculture Brooke Rollins’ Statement Following Successful Controlled Detonation at Iowa Army Ammunition, Showing Zero Initial Detections of Airbor",
+    "ts": 1795626000000,
+    "u": "https://www.usda.gov/about-usda/news/press-releases/2026/11/25/secretary-agriculture-brooke-rollins-statement-following-successful-controlled-detonation-iowa-army"
+   },
+   {
     "det": 1795552557173,
     "t": "USDA Announces Vendor Lineup for the Great American Christmas Market",
     "ts": 1795552200000,
@@ -90,6 +96,7 @@
   ],
   "uv": 2,
   "vistos": [
+   "https://www.usda.gov/about-usda/news/press-releases/2026/11/25/secretary-agriculture-brooke-rollins-statement-following-successful-controlled-detonation-iowa-army",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/24/usda-announces-vendor-lineup-great-american-christmas-market",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/20/usda-puts-ranchers-first-brand-approval-securing-american-beef-herd-retention",
    "https://www.usda.gov/about-usda/news/press-releases/2026/11/16/registration-now-open-usdas-103rd-agricultural-outlook-forum",
