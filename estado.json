@@ -662,6 +662,12 @@
   "nombre": "Casa Blanca - Presidential Actions",
   "ultimas": [
    {
+    "det": 1795617055022,
+    "t": "Thanksgiving Day, 2026",
+    "ts": 1795617000000,
+    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/"
+   },
+   {
     "det": 1795477259558,
     "t": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
     "ts": 1795476972000,
@@ -834,16 +840,11 @@
     "t": "Nominations Sent to the Senate",
     "ts": 1790625568000,
     "u": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/"
-   },
-   {
-    "det": null,
-    "t": "Gold Star Mother’s And Family’s Day, 2026",
-    "ts": 1790365652000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026",
    "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
    "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026",
    "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting",
@@ -1076,6 +1077,7 @@
   "uv": 2,
   "vistos": [
    "2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+   "2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
    "2026/november/united-states-seeks-mexicos-review-alleged-denial-workers-rights-polygroup-industrias-mexico",
    "2026/november/ambassador-greer-champions-america-first-trade-policy-virtual-remarks-responsible-business-alliances",
    "2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
