@@ -397,6 +397,12 @@
   "nombre": "Casa Blanca - News",
   "ultimas": [
    {
+    "det": 1795655152711,
+    "t": "President Trump Unleashes Whole-of-Government Effort to Protect America’s Critical Infrastructure",
+    "ts": 1795653539000,
+    "u": "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/"
+   },
+   {
     "det": 1795649153608,
     "t": "Trump Administration Leads Whole-of-Government Effort to Safely Neutralize Obama-Era Explosives Threat in Iowa",
     "ts": 1795648256000,
@@ -569,16 +575,11 @@
     "t": "Joint Statement on an Agreement Between the United States of America and the Kingdom of Thailand on Reciprocal Trade",
     "ts": 1794919407000,
     "u": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/"
-   },
-   {
-    "det": null,
-    "t": "Nominations Sent to the Senate",
-    "ts": 1794862209000,
-    "u": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/"
    }
   ],
   "uv": 2,
   "vistos": [
+   "https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure",
    "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa",
    "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026",
    "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families",
