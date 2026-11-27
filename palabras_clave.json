@@ -1,0 +1,179 @@
+[
+  {
+    "tema": "México",
+    "variantes": [
+      "Mexico",
+      "Mexican",
+      "Mexicans",
+      "United Mexican States"
+    ]
+  },
+  {
+    "tema": "Sanciones",
+    "variantes": [
+      "sanction",
+      "sanctions",
+      "sanctioned",
+      "sanctioning",
+      "sanción",
+      "sanciones",
+      "sancionado",
+      "sancionados"
+    ]
+  },
+  {
+    "tema": "Terrorismo",
+    "variantes": [
+      "terrorist",
+      "terrorists",
+      "terrorism",
+      "terrorista",
+      "terroristas"
+    ]
+  },
+  {
+    "tema": "Narcoterrorismo",
+    "variantes": [
+      "narco-terrorist",
+      "narco-terrorists",
+      "narcoterrorist",
+      "narcoterrorists",
+      "narco-terrorism",
+      "narcoterrorism",
+      "narcoterrorista",
+      "narcoterroristas",
+      "narco-terrorista"
+    ]
+  },
+  {
+    "tema": "Cárteles",
+    "variantes": [
+      "cartel",
+      "cartels",
+      "cártel",
+      "cárteles"
+    ]
+  },
+  {
+    "tema": "Importaciones",
+    "variantes": [
+      "import",
+      "imports",
+      "imported",
+      "importing",
+      "importer",
+      "importers",
+      "importación",
+      "importaciones",
+      "importador",
+      "importadores"
+    ]
+  },
+  {
+    "tema": "Mecanismo Laboral de Respuesta Rápida",
+    "variantes": [
+      "Rapid Response Labor Mechanism",
+      "Rapid Response Mechanism",
+      "RRM"
+    ]
+  },
+  {
+    "tema": "Aranceles",
+    "variantes": [
+      "tariff",
+      "tariffs",
+      "duties",
+      "customs duty",
+      "import duty",
+      "import duties",
+      "arancel",
+      "aranceles",
+      "arancelario",
+      "arancelaria",
+      "arancelarios",
+      "arancelarias"
+    ]
+  },
+  {
+    "tema": "T-MEC",
+    "variantes": [
+      "USMCA",
+      "T-MEC",
+      "TMEC",
+      "CUSMA",
+      "United States-Mexico-Canada Agreement"
+    ]
+  },
+  {
+    "tema": "Fentanilo (sugerida)",
+    "variantes": [
+      "fentanyl",
+      "fentanilo"
+    ]
+  },
+  {
+    "tema": "Organizaciones terroristas (sugerida)",
+    "variantes": [
+      "Foreign Terrorist Organization",
+      "Foreign Terrorist Organizations",
+      "FTO",
+      "FTOs",
+      "organización terrorista extranjera",
+      "organizaciones terroristas extranjeras"
+    ]
+  },
+  {
+    "tema": "Cárteles por nombre (sugerida)",
+    "variantes": [
+      "Sinaloa",
+      "CJNG",
+      "Jalisco New Generation"
+    ]
+  },
+  {
+    "tema": "OFAC (sugerida)",
+    "variantes": [
+      "OFAC",
+      "Specially Designated Nationals",
+      "SDN"
+    ]
+  },
+  {
+    "tema": "Secciones 232 / 301 (sugerida)",
+    "variantes": [
+      "Section 232",
+      "Section 301",
+      "Sección 232",
+      "Sección 301"
+    ]
+  },
+  {
+    "tema": "Antidumping (sugerida)",
+    "variantes": [
+      "antidumping",
+      "anti-dumping",
+      "countervailing",
+      "cuota compensatoria",
+      "cuotas compensatorias",
+      "dumping"
+    ]
+  },
+  {
+    "tema": "Reglas de origen (sugerida)",
+    "variantes": [
+      "rules of origin",
+      "rule of origin",
+      "reglas de origen",
+      "regla de origen"
+    ]
+  },
+  {
+    "tema": "Remesas (sugerida)",
+    "variantes": [
+      "remittance",
+      "remittances",
+      "remesa",
+      "remesas"
+    ]
+  }
+]
